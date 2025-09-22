@@ -1,0 +1,8 @@
+#simple rotation code
+execute at @s as @e[tag=portal.temp] if score @s portal.sid = @p portal.sid if entity @p[y_rotation=315..44] at @s run teleport @s ~ ~ ~ 180 0
+execute at @s as @e[tag=portal.temp] if score @s portal.sid = @p portal.sid if entity @p[y_rotation=45..134] at @s run teleport @s ~ ~ ~ 270 0
+execute at @s as @e[tag=portal.temp] if score @s portal.sid = @p portal.sid if entity @p[y_rotation=135..254] at @s run teleport @s ~ ~ ~ 0 0
+execute at @s as @e[tag=portal.temp] if score @s portal.sid = @p portal.sid if entity @p[y_rotation=255..314] at @s run teleport @s ~ ~ ~ 90 0
+
+#leave portal with rotation
+execute as @e[tag=teleport.portal] at @s as @a[tag=teleport2] run tp @s ~ ~ ~ ~ ~

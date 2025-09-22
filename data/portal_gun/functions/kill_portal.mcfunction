@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,tag=portal.for.gun] if score @s portal.sid = @p portal.sid run kill @s

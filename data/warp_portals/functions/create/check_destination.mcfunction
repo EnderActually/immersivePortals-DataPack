@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:ender_pearl",Count:1b}},tag=!warp_portals.ignore] at @s if block ~ ~-1 ~ #warp_portals:creation_block run function warp_portals:create/create_destination

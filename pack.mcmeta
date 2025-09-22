@@ -1,0 +1,39 @@
+{
+    "pack": {
+        "description": "Create Warp Portals, and travel with a Handheld Portal Device",
+        "pack_format": 8,
+		"supported_formats": {"min_inclusive": 8, "max_inclusive": 48}
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 18, "max_inclusive": 2147483647},
+				"directory": "overlay_18"
+			},
+			{
+				"formats": {"min_inclusive": 33, "max_inclusive": 2147483647},
+				"directory": "overlay_33"
+			},
+			{
+				"formats": {"min_inclusive": 34, "max_inclusive": 2147483647},
+				"directory": "overlay_34"
+			},
+			{
+				"formats": {"min_inclusive": 36, "max_inclusive": 2147483647},
+				"directory": "overlay_36"
+			},
+			{
+				"formats": {"min_inclusive": 37, "max_inclusive": 2147483647},
+				"directory": "overlay_37"
+			},
+			{
+				"formats": {"min_inclusive": 43, "max_inclusive": 2147483647},
+				"directory": "overlay_43"
+			},
+			{
+				"formats": {"min_inclusive": 45, "max_inclusive": 2147483647},
+				"directory": "overlay_45"
+			}
+		]
+	}
+}
