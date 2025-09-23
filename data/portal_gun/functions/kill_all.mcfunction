@@ -1,1 +1,0 @@
-kill @e[type=armor_stand,tag=portal.for.gun]
