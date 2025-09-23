@@ -3,6 +3,8 @@
 A datapack that recreates the feel of immersive portals and portal gun mechanics in vanilla Minecraft.  
 This pack lets you create **Warp Portals** between locations and includes an **Portal Gun** 
 
+This data pack is **Server Side**
+
 ## Warp Portals
 
 Create Warp Portals between your favorite locations. This datapack is made to be balanced, simple to use and lightweight.
