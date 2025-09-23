@@ -33,3 +33,20 @@ https://github.com/gabriel-pinheiro/datapacks/assets/56726395/daf92ed8-241f-40f9
 
 
 ---
+
+
+## Portal Gun
+
+### Crafting Recipe 
+
+**Crafting**: Combine 3 **Iron Blocs**, **Blue Stained Glass Block**, and ***Orange Stained Glass Block** in a crafting recipe to create the Portal Gun.  
+
+
+https://github.com/EnderActually/immersivePortals-DataPack/raw/refs/heads/media/Portalgun.mp4
+
+### Using the portal gun
+
+To use the portal gun, simply put the item in your offhand.
+Then use **1**, **2**, and **3** keys to switch between options. 
+
+https://github.com/EnderActually/immersivePortals-DataPack/raw/refs/heads/media/Portalgun2.mp4
