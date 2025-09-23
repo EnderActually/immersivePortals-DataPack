@@ -1,15 +1,12 @@
-# Immersive Portals Recreation
-
-A datapack that recreates the feel of immersive portals and portal gun mechanics in vanilla Minecraft.  
-This pack lets you create **Warp Portals** between locations and includes an **Portal Gun** 
-
-## Warp Portals
+# Warp Portals
 
 Create Warp Portals between your favorite locations. This datapack is made to be balanced, simple to use and lightweight.
 Warp Portals supports Multiplayer and uses the best practices for datapacks to ensure compatibility with other datapacks.
 This datapack doesn't use chunk loading, unlike most teleportation datapacks, which makes it lightweight no matter how many portals you have.
 
 https://github.com/gabriel-pinheiro/datapacks/assets/56726395/badcf745-74c5-4ca9-8f73-4bfb9a575b83
+
+## Usage
 
 ### Forging the Portal Wand
 
@@ -29,5 +26,15 @@ To destroy the portal, simply break the **Crying Obsidian** block in the entranc
 
 https://github.com/gabriel-pinheiro/datapacks/assets/56726395/daf92ed8-241f-40f9-9d76-50abc187b3ff
 
+## Installation
 
----
+After downloading the `Warp Portals vX.Y.Z.zip` file (vX.Y.Z is the version number), you can install it by one of the following methods:
+- **New SinglePlayer World**: When creating a new world, in the `More` tab, click on `Data Packs`, and drop the `Warp Portals vX.Y.Z.zip` file. The datapack will appear in the `Available` list, click in the arrow to add it to the `Selected` list and click `Done`.
+- **Existing SinglePlayer World**: Click `Edit` in the world selection screen, click `Open World Folder`, go to the `datapacks` folder and drop the `Warp Portals vX.Y.Z.zip` file.
+- **Multiplayer Server**: Drop the `Warp Portals vX.Y.Z.zip` file in the `datapacks` folder inside the world folder.
+
+## Uninstalling
+
+To uninstall Warp Portals, execute the command `/function warp_portals:uninstall` in the world where you installed the datapack, then remove the `Warp Portals vX.Y.Z.zip` file from the `datapacks` folder.
+
+Note that Minecraft doesn't provide the necessary tools to actually remove the entirety of a datapack. This function will break (and drop the Ender Pearls) of all portals in currently loaded chunks.
