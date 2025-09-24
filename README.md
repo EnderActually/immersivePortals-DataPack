@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/e73ba187-6c09-4ca7-be0c-451c34d2345a
 
 ### Crafting Recipe 
 
-**Crafting**: Combine 3 **Iron Blocs**, **Blue Stained Glass Block**, and **Orange Stained Glass Block** in a crafting recipe to create the Portal Gun.  
+**Crafting**: Combine 3 **Iron Block**, **Blue Stained Glass**, and **Orange Stained Glass** in a crafting recipe to create the Portal Gun.  
 
 https://github.com/user-attachments/assets/0b9b3abe-b368-4af6-ab95-bc45a593e936
 
