@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "portal_guns",
+            "prefix": "portal_guns/"
+        },
+        {
+            "type": "directory",
+            "source": "gravity_guns",
+            "prefix": "gravity_guns/"
+        }
+    ]
+}

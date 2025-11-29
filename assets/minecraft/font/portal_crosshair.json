@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/portal_crosshair.png",
+            "ascent": -5,
+            "height": 16,
+            "chars": [
+                "\u0030\u0031\u0032\u0033"
+            ]
+        }
+    ]
+}

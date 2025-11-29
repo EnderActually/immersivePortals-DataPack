@@ -1,0 +1,8 @@
+{
+	"parent": "portal_guns/portal_gun",
+	"credit": "Made with Blockbench by Craiy",
+	"textures": {
+		"0": "portal_guns/portal_gun_b",
+		"particle": "portal_guns/portal_gun_b"
+	}
+}

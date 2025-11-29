@@ -1,0 +1,7 @@
+{
+	"portal_guns.fire_blue":{"category":"master","sounds":["portal_guns/fire_blue"]},
+	"portal_guns.fire_orange":{"category":"master","sounds":["portal_guns/fire_orange"]},
+	"portal_guns.enter":{"category":"master","sounds":["portal_guns/enter"]},
+	"portal_guns.dismantle":{"category":"master","sounds":["portal_guns/dismantle"]},
+	"portal_guns.equip":{"category":"master","sounds":["portal_guns/equip"]}
+}

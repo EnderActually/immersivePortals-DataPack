@@ -1,0 +1,27 @@
+{
+  "dismantle": {
+    "sounds": [
+      "portal_guns/dismantle"
+    ]
+  },
+  "enter": {
+    "sounds": [
+      "portal_guns/enter"
+    ]
+  },
+  "equip": {
+    "sounds": [
+      "portal_guns/equip"
+    ]
+  },
+  "fire.blue": {
+    "sounds": [
+      "portal_guns/fire_blue"
+    ]
+  },
+  "fire.orange": {
+    "sounds": [
+      "portal_guns/fire_orange"
+    ]
+  }
+}

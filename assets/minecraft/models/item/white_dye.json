@@ -1,0 +1,24 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/white_dye"
+    },
+        "overrides": [
+                { "predicate": {"custom_model_data":200700}, "model": "portal_guns/portal_small"},
+                { "predicate": {"custom_model_data":200701}, "model": "portal_guns/portal_medium"},
+                { "predicate": {"custom_model_data":200702}, "model": "portal_guns/portal_closed"},
+                { "predicate": {"custom_model_data":200703}, "model": "portal_guns/portal"},
+                { "predicate": {"custom_model_data":200704}, "model": "portal_guns/portal_small_hori"},
+                { "predicate": {"custom_model_data":200705}, "model": "portal_guns/portal_medium_hori"},
+                { "predicate": {"custom_model_data":200710}, "model": "portal_guns/portal_closed_hori"},
+                { "predicate": {"custom_model_data":200711}, "model": "portal_guns/portal_hori"},
+                { "predicate": {"custom_model_data":200712}, "model": "portal_guns/portal_b_small"},
+                { "predicate": {"custom_model_data":200713}, "model": "portal_guns/portal_b_medium"},
+                { "predicate": {"custom_model_data":200714}, "model": "portal_guns/portal_b_closed"},
+                { "predicate": {"custom_model_data":200715}, "model": "portal_guns/portal_b"},
+                { "predicate": {"custom_model_data":200716}, "model": "portal_guns/portal_b_small_hori"},
+                { "predicate": {"custom_model_data":200717}, "model": "portal_guns/portal_b_medium_hori"},
+                { "predicate": {"custom_model_data":200718}, "model": "portal_guns/portal_b_closed_hori"},
+                { "predicate": {"custom_model_data":200719}, "model": "portal_guns/portal_b_hori"}
+        ]
+}

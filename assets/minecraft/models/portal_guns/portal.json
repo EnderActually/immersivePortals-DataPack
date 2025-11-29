@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "portal_guns/portal"
+	},
+	"display": {
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"head": {
+			"translation": [0, -17.55, 1.01],
+			"scale": [3.19, 3.19, 2]
+		}
+	}
+}

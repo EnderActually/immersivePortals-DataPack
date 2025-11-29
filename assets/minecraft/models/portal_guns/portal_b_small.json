@@ -1,0 +1,6 @@
+{
+    "parent": "portal_guns/portal",
+    "textures": {
+        "layer0": "portal_guns/portal_b_small"
+    }
+}
