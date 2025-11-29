@@ -1,2 +1,0 @@
-tellraw @s [{"text":"","font":"default"},{"text":"3","font":"portal_chat_icon"},{"text":" The ","color":"white"},{"text":"Portal","color":"blue","bold":true},{"text":"Guns ","color":"gold","bold":true},{"text":"Datapack ","color":"white","bold":true},{"text":"by Craiy was installed! ","color":"white"},{"text":"3","font":"portal_chat_icon"}]
-tag @s add portal_setup

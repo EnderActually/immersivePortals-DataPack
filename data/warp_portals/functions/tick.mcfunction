@@ -1,1 +1,0 @@
-function warp_portals:teleport/check_teleport
