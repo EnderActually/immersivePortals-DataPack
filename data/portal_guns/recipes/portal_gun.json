@@ -7,7 +7,7 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:nether_star"
+            "item": "minecraft:glowstone"
         },
     		"*": {
                 "item": "minecraft:iron_ingot"
