@@ -1,0 +1,25 @@
+{
+  "values":[
+    "minecraft:air",
+    "minecraft:water",
+    "#minecraft:rails",
+    "#minecraft:buttons",
+    "#portal_guns:carpets",
+    "#minecraft:coral_plants",
+    "#minecraft:corals",
+    "#minecraft:flower_pots",
+    "#minecraft:flowers",
+    "#minecraft:small_flowers",
+    "#minecraft:tall_flowers",
+    "#minecraft:saplings",
+    "minecraft:snow",
+    "minecraft:tall_grass",
+    "minecraft:grass",
+    "#minecraft:crops",
+    "minecraft:torch",
+    "minecraft:soul_torch",
+    "#minecraft:fences",
+    "minecraft:lantern",
+    "minecraft:ladder"
+  ]
+}
