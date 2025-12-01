@@ -10,6 +10,7 @@
         "#minecraft:flowers",
         "minecraft:grass",
         "grass",
-        "tall_grass"
+        "tall_grass",
+        "minecraft:snow"
     ]
 }
