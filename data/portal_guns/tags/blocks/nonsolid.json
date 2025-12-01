@@ -20,6 +20,8 @@
     "minecraft:soul_torch",
     "#minecraft:fences",
     "minecraft:lantern",
-    "minecraft:ladder"
+    "minecraft:ladder",
+    "minecraft:lava"
   ]
 }
+
